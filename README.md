@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.NET Framework, .NET Core**
 
-- 👨‍💻 All of my projects are available at [https://daglidigitalsolutions.de/](https://daglidigitalsolutions.de/)
+- 👨‍💻 All of my projects are available at [https://daglidigitalsolutions.de/](https://daglidigitalsolutions.de/) (site in development :D)
 
 - 💬 Ask me about **react, react-native, expo, javascript, typescript**
 
