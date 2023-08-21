@@ -9,9 +9,7 @@
 - 🔭 I’m currently working on [Stampit](https://apps.apple.com/de/app/stampit/id1666409491)
 
 - 🌱 I’m currently learning **.NET Framework, .NET Core**
-
-- 👨‍💻 All of my projects are available at [https://daglidigitalsolutions.de/](https://daglidigitalsolutions.de/) (site in development :D)
-
+  
 - 💬 Ask me about **react, react-native, expo, javascript, typescript**
 
 - 📫 How to reach me **dagli.solutions@gmail.com**
